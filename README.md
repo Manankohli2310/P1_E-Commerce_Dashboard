@@ -78,7 +78,7 @@ The dataset contains transactional records of an online retail store including:
 ## 📂 Project Structure
 
 ```bash
-E-Commerce-Analytics-Dashboard/
+P1 E-Commerce-Analytics-Dashboard/
 │
 ├── app.py
 ├── data/
