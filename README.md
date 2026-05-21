@@ -65,7 +65,7 @@ The dataset contains transactional records of an online retail store including:
 
 ## 🎥 YouTube Demo
 
-👉 [Watch Project Demo](YOUR_YOUTUBE_DEMO_LINK_HERE)
+👉 [Watch Project Demo](https://youtu.be/ZISZ6_U9eWI)
 
 ---
 
